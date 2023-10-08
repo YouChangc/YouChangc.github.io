@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>test</title>
+    <link href="/2023/10/08/test/"/>
+    <url>/2023/10/08/test/</url>
+    
+    <content type="html"><![CDATA[<hr><h2 id="title-测试文章date-2021-06-10-16-35-20tags-原创categories-Java"><a href="#title-测试文章date-2021-06-10-16-35-20tags-原创categories-Java" class="headerlink" title="title: 测试文章date: 2021-06-10 16:35:20tags:- 原创categories:- Java"></a>title: 测试文章<br>date: 2021-06-10 16:35:20<br>tags:<br>- 原创<br>categories:<br>- Java</h2><p>这是一篇测试文章</p><img src="/2023/10/08/test/test.png" class="" title="图片引用方法一"><p><img src="/test.png" alt="图片引用方法二"></p><p><img src="/images/test.png" alt="图片引用方法三"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试</title>
     <link href="/2023/10/08/%E6%B5%8B%E8%AF%95/"/>
     <url>/2023/10/08/%E6%B5%8B%E8%AF%95/</url>
