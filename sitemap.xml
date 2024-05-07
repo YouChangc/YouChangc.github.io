@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://youchangblog.cn/posts/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2024-05-07T15:13:30+08:00</lastmod>
+  </url><url>
+    <loc>https://youchangblog.cn/posts/</loc>
+    <lastmod>2024-05-07T15:13:30+08:00</lastmod>
+  </url><url>
+    <loc>https://youchangblog.cn/</loc>
+    <lastmod>2024-05-07T15:13:30+08:00</lastmod>
+  </url><url>
     <loc>https://youchangblog.cn/about/</loc>
     <lastmod>2024-04-25T22:52:34+08:00</lastmod>
   </url><url>
@@ -11,21 +20,10 @@
     <loc>https://youchangblog.cn/search/</loc>
     <lastmod>2024-04-25T22:52:34+08:00</lastmod>
   </url><url>
-    <loc>https://youchangblog.cn/</loc>
-    <lastmod>2024-04-25T22:52:34+08:00</lastmod>
-  </url><url>
-    <loc>https://youchangblog.cn/posts/c&#43;&#43;/</loc>
-  </url><url>
     <loc>https://youchangblog.cn/categories/</loc>
-  </url><url>
-    <loc>https://youchangblog.cn/posts/java/</loc>
-  </url><url>
-    <loc>https://youchangblog.cn/posts/paper/</loc>
   </url><url>
     <loc>https://youchangblog.cn/series/</loc>
   </url><url>
     <loc>https://youchangblog.cn/tags/</loc>
-  </url><url>
-    <loc>https://youchangblog.cn/posts/</loc>
   </url>
 </urlset>
