@@ -6,27 +6,13 @@
     <description>Recent content on 小章鱼&#39;s Blog</description>
     <generator>Hugo -- 0.125.3</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 May 2024 15:19:57 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 22:52:34 +0800</lastBuildDate>
     <atom:link href="https://youchangblog.cn/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Firstpage</title>
-      <link>https://youchangblog.cn/posts/%E7%AE%97%E6%B3%95/firstpage/</link>
-      <pubDate>Tue, 07 May 2024 15:19:57 +0800</pubDate>
-      <guid>https://youchangblog.cn/posts/%E7%AE%97%E6%B3%95/firstpage/</guid>
-      <description></description>
-    </item>
     <item>
       <title>About</title>
       <link>https://youchangblog.cn/about/</link>
       <pubDate>Thu, 25 Apr 2024 22:52:34 +0800</pubDate>
       <guid>https://youchangblog.cn/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Archive</title>
-      <link>https://youchangblog.cn/archive/</link>
-      <pubDate>Thu, 25 Apr 2024 22:52:34 +0800</pubDate>
-      <guid>https://youchangblog.cn/archive/</guid>
       <description></description>
     </item>
   </channel>
