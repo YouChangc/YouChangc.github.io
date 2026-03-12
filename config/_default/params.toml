@@ -1,0 +1,56 @@
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+enableImageLazyLoading = true
+
+mainSections = ["posts"]
+
+[header]
+  layout = "fixed-fill"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "posts"
+  cardView = true
+
+[article]
+  showDate = true
+  showDateOnlyInArticle = true
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = true
+  showEdit = false
+  showPagination = true
+
+[list]
+  showHero = true
+  heroStyle = "background"
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = false
+  showCards = true
+
+[taxonomy]
+  showHero = true
+  showBreadcrumbs = true
+
+[term]
+  showHero = true
+  showBreadcrumbs = true

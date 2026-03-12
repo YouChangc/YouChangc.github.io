@@ -1,0 +1,19 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 1
+title = "Youc 的博客"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006-01-02"
+  description = "基于 Hugo 与 Blowfish 主题搭建的个人博客。"
+
+[params.author]
+  name = "youc"
+  headline = "记录技术、写作与日常思考。"
+  bio = "欢迎来到我的博客，这里会持续更新开发笔记、项目实践和一些值得保存下来的想法。"
+  links = [
+    { github = "https://github.com/" },
+  ]
